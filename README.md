@@ -14,8 +14,11 @@ This project uses:
 ---
 
 ## 🎥 Demo
-![Sign Language Demo](images/demo.png)
-
+![Sign Language Demo](https://github.com/maskar122/sign-language-translator/blob/ee6f3170f635c81cf593bc7c82f938033ca382d8/images/output1.png)
+![Sign Language Demo](https://github.com/maskar122/sign-language-translator/blob/ee6f3170f635c81cf593bc7c82f938033ca382d8/images/output2.png)
+![Sign Language Demo](https://github.com/maskar122/sign-language-translator/blob/ee6f3170f635c81cf593bc7c82f938033ca382d8/images/output3.png)
+![Sign Language Demo](https://github.com/maskar122/sign-language-translator/blob/ee6f3170f635c81cf593bc7c82f938033ca382d8/images/output4.png)
+![Sign Language Demo](https://github.com/maskar122/sign-language-translator/blob/ee6f3170f635c81cf593bc7c82f938033ca382d8/images/output5.png)
 
 
 
