@@ -47,15 +47,6 @@ This project uses:
 sign-language-translator/
 │── data/                # Dataset of sign language images/videos
 │── models/              # Trained models (CNN, RNN, etc.)
-│── src/                 # Source code
-│   │── preprocessing.py # Image preprocessing
-│   │── train.py         # Model training script
-│   │── predict.py       # Real-time detection & translation
 │   │── gui.py           # (Optional) GUI application
-│── requirements.txt     # Dependencies
 │── README.md            # Project documentation
 ```
-
---
-
-تحب أكتبلك نسخة عربية كاملة من الـ `README.md` برضه بحيث تبقى مناسبة لو حابب ترفع المشروع في GitHub بالعربي؟
